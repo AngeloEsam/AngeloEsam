@@ -11,14 +11,15 @@
 </p>
 
 - 🏢 A Junior Full Stack Developer using Node.js
-- 🎓 A CS student at HTI (Higher Technological Institute)
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
+- 💬 Ask me about my experience with HTML, CSS, JavaScript, jQuery, Bootstrap, Node Js, Express Js, Tailwind CSS, MUI, React Js, and TypeScript.
 
 ### Contact Me :
 
 <a href="https://www.linkedin.com/in/angelo-esam/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Hani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+201093291108" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hani-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:angloesam61@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hani-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="https://wa.me/+201093291108" target="_blank"><button>Angelo Esam</button></a>
+<a href="mailto:angloesam61@gmail.com" target="_blank"><button>Angelo Esam</button></a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,12 +29,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91)&nbsp;
-![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework%20Core-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
-![ASP.NET](https://img.shields.io/badge/-ASP.NETCore-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
-![API](https://img.shields.io/badge/-API-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
-![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
