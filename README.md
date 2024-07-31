@@ -15,11 +15,6 @@
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
 - 💬 Ask me about my experience with HTML, CSS, JavaScript, jQuery, Bootstrap, Node Js, Express Js, Tailwind CSS, MUI, React Js, and TypeScript.
 
-### Contact Me :
-
-<a href="https://www.linkedin.com/in/angelo-esam/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Hani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+201093291108" target="_blank"><button>Angelo Esam</button></a>
-<a href="mailto:angloesam61@gmail.com" target="_blank"><button>Angelo Esam</button></a>
 
 ### 🛠 &nbsp;Tech Stack
 
