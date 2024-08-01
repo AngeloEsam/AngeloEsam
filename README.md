@@ -12,7 +12,6 @@
 
 - 🏢 A Junior Full Stack Developer using Node.js
 - 😄 A graduate with a Bachelor's degree in Computers and Information, class of 2023, With GPA 3.33.
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
 - 💬 Ask me about my experience with HTML, CSS, JavaScript, jQuery, Bootstrap, Node Js, Express Js, Tailwind CSS, MUI, React Js, and TypeScript.
 
